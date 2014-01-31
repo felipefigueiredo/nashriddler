@@ -1,0 +1,13 @@
+# Arquivo de instrução de uso do recover do nashriddler
+
+Executar o comando:
+/usr/share/nashriddler/retroactive/recover_nash.pl
+
+O sistema apresentará duas opções:
+1 - Escolher um mês específico
+2 - Escolher um intervalo de dias dentro de um mês
+
+Escolhido o período, o script irá realizar o mesmo procedimento de recolhimento de dados corrente. 
+Os arquivos gerados no banco serão criados em formato .csv e enviados para o diretório /usr/share/nashriddler/retroactive/files_recover e NÃO serão enviados ao servidor da Teleopti. 
+
+O envio dos arquivos csv serão enviados apenas quando o trabalho estiver alinhado com a área técnica da Teleopti. 
