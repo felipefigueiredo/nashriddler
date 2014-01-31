@@ -1,21 +1,21 @@
 [db]
-host=db.pabx.locaweb.com.br
-username=nashriddler
-password=nashriddlertelecom
-db=pabxmanagement
+host=
+username=
+password=
+db=
 
 [company]
-id=218
+id=
 
 [ftp]
-host=lw135169093950912187.provisorio.ws
-username=lw135169093950912187
-password=kfg34@HGrd
-path=/nashriddler
+host=
+username=
+password=
+path=
 
 [log]
-path=/usr/share/nashriddler
-file=nashriddlerlog.conf
+path=
+file=
 
 [rs]
-host=rsync://186.202.31.54/Asterisk_files
+host=
